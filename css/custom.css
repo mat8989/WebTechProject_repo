@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { 
+    
+background-image: url(../img/bg.png);
+background-position: top centre;
+background-size: cover; 
+
+}
+
+.logo {
+    margin: 10% 4% 4% 4% ;
+}
+
+.banner {
+    padding-right: 1rem;
+    padding-bottom: 2rem;
+    margin: 12% 4% 4% 6%;
+}
+
+
+.jumbotron {
+    background-image: url(../img/mixing.png.jpg);
+    border: 1px solid;
+    padding: 10px;
+    border-color: #e8aa02;
+   }
+
+footer {
+    background-color: #444444;
+    padding: .5% 2%;
+    color: #fff;
+    margin: 30px 0;    
+}
+
+.tabpara {
+    color: white;
+}
+
+.<!-- Find Us -->{
+    margin-top: auto;
+}
+
+
+
+
